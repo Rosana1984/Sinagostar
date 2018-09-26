@@ -1,1 +1,2 @@
-# Sinagostar
+# Sinagostar 
+Sell medical equipment
